@@ -1,0 +1,55 @@
+
+We're looking for a Senior Frontend Engineer to join our product team.
+
+Responsibilities:
+- Build and maintain responsive web applications using React and TypeScript
+- Collaborate with designers to implement pixel-perfect, accessible UI
+- Optimize application performance and load times
+- Mentor junior engineers and review pull requests
+
+Requirements:
+- 5+ years of experience with React and modern JavaScript/TypeScript
+- Strong understanding of component architecture and state management
+- Experience with Next.js and Tailwind CSS is a plus
+- Familiarity with REST APIs and version control (Git)
+- Excellent communication skills and ability to work in a fast-paced team
+
+
+Job Title:   Senior Frontend Engineer
+Experience:  5+ years
+Location:    Pune, Remote
+Skills:      React, TypeScript, Tailwind, Next.js
+
+Job Title:   Backend Engineer
+Experience:  3-5 years
+Location:    Bangalore
+Skills:      Node.js, MongoDB, Express
+
+Job Title:   Product Designer
+Experience:  2+ years
+Location:    Remote
+Skills:      Figma, Prototyping, Design Systems
+
+Job Title:   Data Analyst
+Experience:  2-4 years
+Location:    Mumbai, India
+Skills:      SQL, Excel, Power BI, Python
+des:         We're looking for a Data Analyst to help turn raw data into actionable insights. You'll build dashboards, run ad-hoc analyses, and work closely with product and business teams to answer key questions about performance and growth.
+
+Job Title:   DevOps Engineer
+Experience:  4+ years
+Location:    Remote
+Skills:      AWS, Docker, Kubernetes, CI/CD
+des:         Seeking a DevOps Engineer to own our infrastructure and deployment pipelines. You'll manage cloud infrastructure on AWS, improve CI/CD workflows, and work with engineering teams to keep systems reliable, secure, and easy to scale.
+
+Job Title:   QA Engineer
+Experience:  1-3 years
+Location:    Pune, India
+Skills:      Manual Testing, Selenium, JIRA
+des:         We need a QA Engineer to ensure the quality and reliability of our product before it reaches users. You'll design test plans, execute manual and automated tests, and work closely with developers to catch issues early in the release cycle.
+
+Job Title:   Marketing Manager
+Experience:  5+ years
+Location:    Bangalore, India
+Skills:      SEO, Content Strategy, Google Analytics
+des:         Looking for a Marketing Manager to lead our growth and brand strategy. You'll own SEO and content initiatives, analyze campaign performance, and collaborate with design and product teams to grow our audience and user base.
